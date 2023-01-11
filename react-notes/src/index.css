@@ -1,0 +1,9 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.note {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
